@@ -3,4 +3,3 @@
 *.log
 *.recipe
 *.tlog/
-x64/Release/*.txt
